@@ -1,3 +1,3 @@
 Import topic
 <br/>
-<img src="floats_makefloat.png" alt="tip" width="800px"/>
+<img src="importnpy.png" alt="tip" width="800px"/>
